@@ -12,8 +12,8 @@ To provide a **visual and data-driven overview** of Nigeria’s population chang
 ---
 
 ## 📊 Dashboard Snapshot
+[Nigeria Population Dashboard][NIGERIA](https://github.com/user-attachments/assets/a044cbdf-2ee8-4eab-94f1-af8a40122574)
 
-![Nigeria Population Dashboard](https://drive.google.com/open?id=1yISLguqurIDLvl2-m-rF4i1Erg8MxtAL&usp=drive_fs)
 
 ✅ Key features visible in the dashboard:
 - Total Population: 140M (2006) → 229M (2023)  
